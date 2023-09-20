@@ -1,0 +1,31 @@
+.speech {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.direction {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    background-color: #f5f25d;
+    color: black;
+
+}
+.direction:hover {
+    background-color: aqua;
+    color: violet
+}
+.berta {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    color: aqua;
+}
+.tesman {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: smaller;
+    color: blue;
+}
+.mtessman {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: smaller;
+    color: tomato;
+}
