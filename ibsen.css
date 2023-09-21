@@ -19,15 +19,30 @@
     font-size: smaller;
     color: aqua;
 }
+.berta:hover {
+    border: 1px solid;
+    text-shadow: 1px 1px 1px blue;
+    backdrop-filter: blur(20px);
+}
 .tesman {
     font-family: 'Courier New', Courier, monospace;
     font-size: smaller;
     color: blue;
 }
+.tesman:hover {
+    border: 1px solid;
+    text-shadow: 1px 1px 1px red;
+    backdrop-filter: blur(20px);
+}
 .mtessman {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: smaller;
     color: tomato;
+}
+.mtessman:hover {
+    border: 1px solid;
+    text-shadow: 1px 1px 1px blue;
+    backdrop-filter: blur(20px);
 }
 table, th, td {
     border: 1px solid;
