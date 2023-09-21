@@ -29,3 +29,12 @@
     font-size: smaller;
     color: tomato;
 }
+table, th, td {
+    border: 1px solid;
+    border-color: black;
+    color: red;
+    text-align: center;
+}
+tr:nth-child(even) {
+    background-color: hsl(0, 0%, 51%);
+}
